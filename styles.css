@@ -23,12 +23,13 @@
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  margin-left: -30px;
 }
 
 .contact-details .icon {
   width: 40px;
   font-size: 17px;
-  margin-right: 10px;
+  margin-right: 5px;
   padding: 8px;
   border: 2px solid #007bff;
   border-radius: 50%;
