@@ -88,8 +88,8 @@ a {
   }
   .close-link {
     font-size: 40px;
-    
   }
-  
-  
+.container {
+    padding: 12px;
+  }
 }
